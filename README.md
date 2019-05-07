@@ -19,6 +19,9 @@ $ npm run watch
 
 # 배포파일 생성 및 서버 실행
 $ npm run start
+
+# 테스트 실행
+$ npm run test
 ```
 ## dtp-be Tree
 ```bash
@@ -34,6 +37,8 @@ $ npm run start
     ├── app.js
     ├── bin
     └── routes
+└── test                      # test codes
+    └── index.spec.js 
 ```
 ## Contributing
 ..
